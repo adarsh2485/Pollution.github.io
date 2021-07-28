@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(31, 197, 189);
+     text-align: center;
+     font-size: 250%;
+     font-family: 'Roboto Condensed', sans-serif;
+ }
+ /*h1:hover{
+     color: chartreuse;
+ }*/
+ h2{
+     color: skyblue;
+     font-family: 'Roboto Condensed', sans-serif;
+ }
+ p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 100%;
+    color: white;
+ }
+/* .ok:hover{
+     color:white;
+ }
+ .no:hover{
+     color: white;
+ }
+ .hi{
+     color: blue;
+ }/*
